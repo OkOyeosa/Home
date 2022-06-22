@@ -18,6 +18,9 @@
  >[NAVER](https://naver.com)
  >
  >[Daum](https://daum.net)
+ >
+ >[Tistory](https://1thisness.tistory.com/1)
+
  
  **뚜    |  벅   |  뚜    |    벅**
  --------|-------|--------|-
